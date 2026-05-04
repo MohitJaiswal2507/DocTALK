@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+rag_project/
+
+# Uploads (don't push user PDFs)
+uploads/
+
+# ChromaDB local data
+chroma_db/
+*.db
+
+# Node
+node_modules/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Reports
+Report/
